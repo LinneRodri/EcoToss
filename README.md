@@ -18,5 +18,3 @@ Interface gráfica
 🎯 #Objetivo do Projeto
 
 Promover a educação ambiental de maneira dinâmica e divertida, ajudando estudantes a aprenderem sobre reciclagem e descarte correto de resíduos através da gamificação.
-
-<img src="C:\Users\Alinne Rodrigues\Desktop\jogoOriginal/telainicial" width="700">
