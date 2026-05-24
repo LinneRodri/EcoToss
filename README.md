@@ -19,7 +19,4 @@ Interface gráfica
 
 Promover a educação ambiental de maneira dinâmica e divertida, ajudando estudantes a aprenderem sobre reciclagem e descarte correto de resíduos através da gamificação.
 
-<p align="center">
-  <img src="<img width="982" height="735" alt="telainicial" src="https://github.com/user-attachments/assets/ccfa0084-36a5-41d9-9de1-50f0550c1ac6" />
-" width="600">
-</p>
+![Jogo_memoria](<img width="982" height="735" alt="telainicial" src="https://github.com/user-attachments/assets/8635c643-ce65-4360-a612-3328f2f1cd19" />)
